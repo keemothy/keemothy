@@ -1,4 +1,4 @@
-## 👋 Hi! I'm currently a junior at UC Berkeley studying Data Science and Computer Science 😄
+## 👋 Hi! I'm a third year at UC Berkeley studying Data Science and Computer Science 😄
 
 <!--
 **keemothy/keemothy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
