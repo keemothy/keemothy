@@ -4,6 +4,10 @@ I'm currently interested in integrating AI into my own projects whether that be 
 
 I'd love to talk more so feel free to reach out!
 
+## Contact
+Email: kimchu@berkeley.edu
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
