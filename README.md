@@ -1,10 +1,10 @@
 ## Hi! I'm a third year at UC Berkeley studying Data Science and Computer Science 😄
 
+I'm currently interested in integrating AI into my own projects whether that be a chatbox or even for virtual reality experiences! On the side, I'm also working on some personal projects to not only improve my skills but to also understand the fundamentals behind certain services.
+
+I'd love to talk more so feel free to reach out!
+
 <!--
-**keemothy/keemothy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
