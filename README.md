@@ -1,4 +1,4 @@
-## Hi! I'm a third year at UC Berkeley studying Data Science and Computer Science 😄
+## Hi! I'm a rising senior at UC Berkeley studying Data Science and Computer Science 😄
 
 I'm currently interested in integrating AI into my own projects whether that be a chatbox or even for virtual reality experiences! On the side, I'm also working on some personal projects to not only improve my skills but to also understand the fundamentals behind certain services.
 
