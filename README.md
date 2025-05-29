@@ -7,7 +7,9 @@ I'd love to talk more so feel free to reach out!
 # ✉️ Contact Information
 Email: kimchu@berkeley.edu
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/chukim/) 
+<a href="https://linkedin.com/in/chukim" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+</a>
 
 # 💻 Tech Stack
 
