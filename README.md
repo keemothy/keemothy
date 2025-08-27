@@ -1,6 +1,6 @@
 ## Hi! My name is Kim and I'm a senior at UC Berkeley studying Data Science and Computer Science at UC Berkeley 😼
 
-I'm currently focused on software development and other full-stack applications at Floras. On the side, I'm either playing badminton, basketball, or picking up a new hobby :p
+I'm currently focused on software development. On the side, I'm either playing badminton, basketball, or picking up a new hobby :p
 
 I'd love to talk more so feel free to reach out via my email below!
 
