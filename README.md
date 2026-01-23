@@ -1,4 +1,4 @@
-## Heyy! My name is Kim and I'm a senior at UC Berkeley studying Data Science and Computer Science. 😼
+## Heyy! My name is Kim and I'm a senior at UC Berkeley studying Computer Science and Data Science. 😼
 
 I'm currently focused on software development and passionate about turning abstract ideas and drafts into real and realiable products or services! On the side, you can find me playing badminton, basketball, or picking up a new hobby :p
 
