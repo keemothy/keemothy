@@ -1,8 +1,16 @@
-## Hi! My name is Kim and I'm a senior at UC Berkeley studying Data Science and Computer Science at UC Berkeley 😼
+## Heyy! My name is Kim and I'm a senior at UC Berkeley studying Data Science and Computer Science. 😼
 
-I'm currently focused on software development. On the side, I'm either playing badminton, basketball, or picking up a new hobby :p
+I'm currently focused on software development and passionate about turning abstract ideas and drafts into real and realiable products or services! On the side, you can find me playing badminton, basketball, or picking up a new hobby :p
 
-I'd love to talk more so feel free to reach out via my email below!
+Please don't hesitate to reach out and chat with me!
+
+# ✉️ Connect with me!
+> [!NOTE]  
+> Email: kimchu@berkeley.edu  
+> <br>
+> <a href="https://linkedin.com/in/chukim" target="_blank" rel="noopener noreferrer">
+>   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+> </a>
 
 # 🛠️ Tech Stack
 
@@ -16,12 +24,3 @@ I'd love to talk more so feel free to reach out via my email below!
 
 ### Tools and Technologies
 [![Tools](https://skillicons.dev/icons?i=git,nodejs,postman,vscode,idea,supabase)](https://skillicons.dev)
-
-
-# ✉️ Connect with me!
-> [!NOTE]  
-> Email: kimchu@berkeley.edu  
-> <br>
-> <a href="https://linkedin.com/in/chukim" target="_blank" rel="noopener noreferrer">
->   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-> </a>
